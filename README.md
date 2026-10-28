@@ -1,6 +1,6 @@
 # Ignacio Pérez Fernández — IT Portfolio
 
-Personal portfolio focused on IT systems, networking, automation, programming and the long-term goal of working in motorsport technology.
+Personal portfolio focused on IT systems, networking, automation, programming and the long-term goal of working in motorsport technology. The site defaults to English and includes a Spanish language switcher.
 
 ## Contents
 - `index.html` — page structure and portfolio content
