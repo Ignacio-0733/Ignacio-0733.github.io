@@ -1,24 +1,26 @@
 # Ignacio Pérez Fernández — IT Portfolio
 
-Modern responsive portfolio focused on IT systems, networking, automation, programming and the long-term goal of working in motorsport technology.
+Personal portfolio focused on IT systems, networking, automation, programming and the long-term goal of working in motorsport technology. The site defaults to English and includes a Spanish language switcher.
 
-## Features
-- English default
-- Responsive desktop/mobile design
-- Trackside-style interactive telemetry panel
-- Scroll animations
-- Projects, skills and experience
-- Motorsport telemetry/cloud TFG concept
+## Contents
+- `index.html` — page structure and portfolio content
+- `style.css` — responsive dark theme and layout
+- `script.js` — mobile navigation and dynamic footer year
 
-## Files
-- `index.html`
-- `style.css`
-- `script.js`
-- `README.md`
+## Run locally
+Open `index.html` in your browser.
 
-## GitHub Pages
-Upload these files to the root of `Ignacio-0733.github.io`, then use **Settings → Pages → Deploy from a branch → main → /(root)**.
+## Publish with GitHub Pages
+1. Create a public repository named **`Ignacio-0733.github.io`** in your GitHub account.
+2. Upload `index.html`, `style.css`, `script.js` and this `README.md` to the repository root.
+3. Open **Settings → Pages**.
+4. Under Build and deployment, choose **Deploy from a branch**, select `main` and `/ (root)`, then save.
+5. Wait for GitHub Pages to publish the site. The URL will be `https://Ignacio-0733.github.io/`.
 
-Expected URL: `https://ignacio-0733.github.io/`
+## Before publishing
+- Check the experience dates and descriptions.
+- Add direct links to individual repositories if desired.
+- Confirm that the course names match the certificates you hold.
+- Consider adding a professional email address if you want recruiters to contact you directly.
 
-The motorsport telemetry/cloud section is a future TFG concept, not a completed project.
+The telemetry/cloud project is marked as a future TFG idea, not as a completed project.
